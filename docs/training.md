@@ -2,7 +2,7 @@
 
 ## Install all the dependencies
 
-You should install all the dependencies either with either Anaconda (using the env file `environment-cuda.yml` )
+You should install all the dependencies either with Anaconda (using the env file `environment-cuda.yml` )
 or `pip`, with `requirements.txt`.
 
 ## Datasets
